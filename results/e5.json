@@ -1,0 +1,31 @@
+{
+  "n_runs": 3,
+  "combinations": {
+    "opencode/deepseek": {
+      "consistency": 1.0,
+      "tpr": 1.0
+    },
+    "opencode/qwen": {
+      "consistency": 1.0,
+      "tpr": 1.0
+    },
+    "langgraph/deepseek": {
+      "consistency": 1.0,
+      "tpr": 1.0
+    },
+    "langgraph/qwen": {
+      "consistency": 1.0,
+      "tpr": 1.0
+    }
+  },
+  "cross_combo": {
+    "consistency": 1.0,
+    "scenarios": 20,
+    "per_combo_tpr": {
+      "opencode/deepseek": 1.0,
+      "opencode/qwen": 1.0,
+      "langgraph/deepseek": 1.0,
+      "langgraph/qwen": 1.0
+    }
+  }
+}

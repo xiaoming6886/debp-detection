@@ -1,0 +1,21 @@
+{
+  "B1_no_detection": {
+    "tpr": 0.0,
+    "fpr": 0.0
+  },
+  "B2_llm_selfcheck": {
+    "tpr": 1.0,
+    "fpr": 0.375,
+    "tpr_std": 0.0,
+    "fpr_std": 0.0,
+    "n_runs": 3
+  },
+  "B3_rule_match": {
+    "tpr": 0.35,
+    "fpr": 0.0
+  },
+  "DEBP": {
+    "tpr": 1.0,
+    "fpr": 0.0
+  }
+}

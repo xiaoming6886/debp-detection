@@ -1,0 +1,222 @@
+{
+  "opencode": {
+    "full": {
+      "total": 20,
+      "detected": 20,
+      "tpr": 1.0,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "D": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        }
+      }
+    },
+    "machine_only": {
+      "total": 20,
+      "detected": 10,
+      "tpr": 0.5,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "D": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        }
+      }
+    },
+    "parameter_only": {
+      "total": 20,
+      "detected": 7,
+      "tpr": 0.35,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 2,
+          "tpr": 0.4
+        },
+        "D": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        }
+      }
+    },
+    "dataflow_only": {
+      "total": 20,
+      "detected": 5,
+      "tpr": 0.25,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "D": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        }
+      }
+    }
+  },
+  "langgraph": {
+    "full": {
+      "total": 20,
+      "detected": 20,
+      "tpr": 1.0,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "D": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        }
+      }
+    },
+    "machine_only": {
+      "total": 20,
+      "detected": 10,
+      "tpr": 0.5,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "D": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        }
+      }
+    },
+    "parameter_only": {
+      "total": 20,
+      "detected": 7,
+      "tpr": 0.35,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 2,
+          "tpr": 0.4
+        },
+        "D": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        }
+      }
+    },
+    "dataflow_only": {
+      "total": 20,
+      "detected": 5,
+      "tpr": 0.25,
+      "by_class": {
+        "A": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "B": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        },
+        "C": {
+          "total": 5,
+          "detected": 5,
+          "tpr": 1.0
+        },
+        "D": {
+          "total": 5,
+          "detected": 0,
+          "tpr": 0.0
+        }
+      }
+    }
+  }
+}

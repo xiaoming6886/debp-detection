@@ -1,0 +1,46 @@
+{
+  "B2_model": {
+    "test": "B2 基线决策 × 模型独立性",
+    "models": [
+      "deepseek",
+      "qwen"
+    ],
+    "n_scenarios": 28,
+    "table": [
+      [
+        26,
+        2
+      ],
+      [
+        23,
+        5
+      ]
+    ],
+    "chi2": 0.6531,
+    "p_value": 0.419,
+    "dof": 1,
+    "independent": true
+  },
+  "DEBP_framework": {
+    "test": "DEBP 决策 × 框架独立性",
+    "models": [
+      "opencode",
+      "langgraph"
+    ],
+    "n_scenarios": 28,
+    "table": [
+      [
+        20,
+        8
+      ],
+      [
+        20,
+        8
+      ]
+    ],
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "independent": true
+  }
+}

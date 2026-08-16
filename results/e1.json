@@ -1,0 +1,58 @@
+[
+  {
+    "framework": "opencode",
+    "total_attacks": 20,
+    "detected": 20,
+    "by_class": {
+      "A": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      },
+      "B": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      },
+      "C": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      },
+      "D": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      }
+    },
+    "overall_tpr": 1.0
+  },
+  {
+    "framework": "langgraph",
+    "total_attacks": 20,
+    "detected": 20,
+    "by_class": {
+      "A": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      },
+      "B": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      },
+      "C": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      },
+      "D": {
+        "total": 5,
+        "detected": 5,
+        "tpr": 1.0
+      }
+    },
+    "overall_tpr": 1.0
+  }
+]

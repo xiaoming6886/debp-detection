@@ -1,0 +1,55 @@
+{
+  "sensitive_value_masked": "sk-***",
+  "variants": {
+    "C1-original": {
+      "legacy": {
+        "intercepted": true,
+        "reason": "C1"
+      },
+      "normalized": {
+        "intercepted": true,
+        "reason": "C1"
+      }
+    },
+    "C1-b64": {
+      "legacy": {
+        "intercepted": false,
+        "reason": null
+      },
+      "normalized": {
+        "intercepted": true,
+        "reason": "C1"
+      }
+    },
+    "C1-url": {
+      "legacy": {
+        "intercepted": false,
+        "reason": null
+      },
+      "normalized": {
+        "intercepted": true,
+        "reason": "C1"
+      }
+    },
+    "C1-hex": {
+      "legacy": {
+        "intercepted": false,
+        "reason": null
+      },
+      "normalized": {
+        "intercepted": true,
+        "reason": "C1"
+      }
+    },
+    "C1-split": {
+      "legacy": {
+        "intercepted": false,
+        "reason": null
+      },
+      "normalized": {
+        "intercepted": false,
+        "reason": null
+      }
+    }
+  }
+}

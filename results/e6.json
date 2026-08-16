@@ -1,0 +1,9 @@
+{
+  "detection_kernel": {
+    "mean_ms": 0.0037,
+    "median_ms": 0.0034,
+    "p95_ms": 0.0045,
+    "max_ms": 0.1605,
+    "n_measure": 1000
+  }
+}
